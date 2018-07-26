@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686078291158",
+    "firebase_url": "https://exercise-f5cca.firebaseio.com",
+    "project_id": "exercise-f5cca",
+    "storage_bucket": "exercise-f5cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686078291158:android:1a8df281e049dca2",
+        "android_client_info": {
+          "package_name": "com.example.sushmita.exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686078291158-7d7m5u6t36r3q1tr3fq58e4rmnd1s1hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sushmita.exercise",
+            "certificate_hash": "c9bb4466c7df5d495a7f36b1a6930fbbfd91db88"
+          }
+        },
+        {
+          "client_id": "686078291158-p7o0r0tq447ilq2f3vv6p3p28sian1i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBZXWcaN1SSfQJWZaQ-7i3acNA8tW5Ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686078291158-p7o0r0tq447ilq2f3vv6p3p28sian1i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

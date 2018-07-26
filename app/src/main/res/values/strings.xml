@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">WorKout</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="prompt_password">Please enter your password</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="email_id">Email ID</string>
+
+    <string name="text_button_calculate">Calculate</string>
+    <string name="text_button_exit">Exit</string>
+    <string name="default_show_result"> </string>
+    <string name="default_show_bmi"> Enter weight (kg) and height (m) </string>
+
+    <string name="text_label_kg">kg</string>
+    <string name="text_label_m">m</string>
+
+    <string name="content_button_calculate">Calculate your BMI</string>
+    <string name="content_button_exit">Exit application</string>
+    <string name="content_show_result"> </string>
+    <string name="content_show_bmi"> </string>
+    <string name="content_user_answer">Key your weight as Kg</string>
+
+
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string-array name="mon_name">
+        <item>1.OVERHEAD SQUAT</item>
+        <item>2.DUMBBELL SWING</item>
+        <item>3.SIDE LUNGE</item>
+        <item>4.LEG RAISE</item>
+        <item>5.PRESS-UP RENEGADE</item>
+    </string-array>
+    <string-array name="mon_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 12-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+    </string-array>
+    <string-array name="tues_name">
+        <item>1.POWER SNATCH</item>
+        <item>2.SQUAT PRESS</item>
+        <item>3.JUMP SQUAT</item>
+        <item>4.WINDMILL</item>
+        <item>5.ROLL-OUT</item>
+    </string-array>
+    <string-array name="tues_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+    </string-array>
+
+    <string-array name="rest_name">
+        <item>Rest</item>
+    </string-array>
+    <string-array name="rest_desc">
+        <item> </item>
+    </string-array>
+
+    <string-array name="thr_name">
+        <item>1.DEADLIFT</item>
+        <item>2.ONE-LEG SQUAT</item>
+        <item>3.DUMBBELL SQUAT</item>
+        <item>4.DUMBBELL LUNGE</item>
+        <item>5.TURKISH GET UP</item>
+    </string-array>
+    <string-array name="thr_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+    </string-array>
+
+    <string-array name="fri_name">
+        <item>1.DUMBBELL BICEP CURL</item>
+        <item>2.TRICEP DUMBBELL KICKBACK</item>
+        <item>3.DUMBBELL WRIST CURL</item>
+        <item>4.PULL UPS</item>
+        <item>5.ROCKY PULL UP-DOWN</item>
+    </string-array>
+    <string-array name="fri_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+    </string-array>
+
+    <string-array name="sun_name">
+        <item>1.ROPE JUMPING</item>
+        <item>2.CYCLING</item>
+        <item>3.BURPEE</item>
+        <item>4.JOGGING</item>
+        <item>5.PLANK</item>
+    </string-array>
+
+    <string-array name="sun_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 20-25 reps</item>
+    </string-array>
+</resources>
